@@ -1,0 +1,17 @@
+{
+  "name": "koa-graphql-apollo-server",
+  "version": "1.0.0",
+  "description": "Apollo koa-based backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Denis Bodnar",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-koa": "^2.3.1",
+    "graphql": "^14.0.2",
+    "koa": "^2.6.2",
+    "uuid": "^3.3.2"
+  }
+}
